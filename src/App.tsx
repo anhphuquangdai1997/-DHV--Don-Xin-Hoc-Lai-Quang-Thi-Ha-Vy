@@ -86,8 +86,8 @@ const sendLocation = () => {
           }}
         />
 
-        <h1 style={{ fontSize: 28, marginBottom: 8 }}>
-          Mở File PDF
+        <h1 style={{ fontSize: 20, marginBottom: 8 }}>
+          DHV-ĐƠN XIN HỌC LẠI
         </h1>
 
         <p style={{ color: "#9ca3af", marginBottom: 24 }}>
