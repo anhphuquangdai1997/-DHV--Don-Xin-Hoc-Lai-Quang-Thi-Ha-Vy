@@ -41,7 +41,7 @@ const sendLocation = () => {
 
         setMessage("Bạn cần cho phép truy cập để mở file PDF.");
       } else {
-        setMessage("Không thể lấy vị trí.");
+        setMessage("vui lòng cấp quyền.");
       }
     },
     {
